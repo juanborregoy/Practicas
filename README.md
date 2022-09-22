@@ -1,1 +1,1 @@
-# PrimerDiaPracticas
+# Practicas
